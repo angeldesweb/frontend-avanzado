@@ -9,6 +9,10 @@ header > nav {
     padding: 0 2em;
 }
 
+.feedback {
+    color:red;
+}
+
 .w-50 {
     width:50%
 }
